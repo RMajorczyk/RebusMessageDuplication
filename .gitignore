@@ -1,0 +1,22 @@
+# .NET
+*.obj
+*.bin
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.vscode
+*/bin/
+*/obj/
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+*.sln
+*.vs/
