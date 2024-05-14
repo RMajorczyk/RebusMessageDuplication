@@ -18,5 +18,4 @@
 *.code-workspace
 
 # Visual Studio
-*.sln
 *.vs/
